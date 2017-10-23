@@ -30,3 +30,8 @@ HttpClientのライブラリとして[Fuel](https://github.com/kittinunf/Fuel)�
 
 [SendGridLib.kt](https://github.com/kikutaro/SendGridKotlin/blob/master/src/main/kotlin/jp/co/kke/sendgrid/kotlin/SendGrindLib.kt)
 [SendGrid公式のJavaライブラリ](https://github.com/sendgrid/sendgrid-java)を利用した例です。
+
+## Kotlin x JavaMail(SMTP)
+
+[JavaMailLib.kt](https://github.com/kikutaro/SendGridKotlin/blob/master/src/main/kotlin/jp/co/kke/sendgrid/kotlin/JavaMailLib.kt)
+[JavaMail](https://javaee.github.io/javamail/)を利用してSMTPでメール送信する例です。
